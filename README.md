@@ -71,7 +71,7 @@ Add real-time network traffic monitoring.
 Implement additional machine learning algorithms.
 Develop a user-friendly interface for monitoring network activity.
 👩‍💻 Author
-Kanika Tomar
+Ujjawal Tiwari
 
 Programming in Java — Evaluated Project
 
